@@ -1,2 +1,5 @@
-# entregables-computaci-n-aplicada
-Entregables del trabajo práctico de Computación Aplicada.
+Trabajo Práctico - Computación Aplicada
+
+Integrantes del grupo:
+Amanda Bonanno Zanetti
+Joaquín Paiz Caro
